@@ -1,4 +1,4 @@
-##Welcome to Neuronal 🧠📈
+## Welcome to Neuronal 🧠📈
 
 Welcome to the official website of **Neuronal**, your go-to solution for holistic mental and physical well-being! Our innovative wearable technology helps you track critical health metrics and gain real-time insights into your overall wellness. Whether it's monitoring heart rate, blood pressure, mental states, or connecting you with professional support, Neuronal is here to empower you to live healthier.
 
