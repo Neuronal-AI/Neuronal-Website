@@ -14,7 +14,7 @@ Our wearables track various metrics such as:
 
 Our AI-driven platform turns this data into actionable insights and connects you with real-life therapists when necessary. Together, we’re making health management smarter and more effective.
 
-## A Special Thanks to Mobirise
+## A Special Thanks to Mobirise (Not Sponsored)
 
 This website was built using **Mobirise**, a fantastic, user-friendly platform that made creating this site a breeze. Their tools enabled us to bring our vision to life quickly and efficiently, providing a solid foundation for our online presence. A big thank you to the team at Mobirise for making website creation so accessible!
 
